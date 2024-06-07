@@ -1,0 +1,7 @@
+CMakeSettings.json
+ag_driverConfig.cmake
+cmake_uninstall.cmake
+CMakeLists.txt.user
+
+build/
+.vscode/
